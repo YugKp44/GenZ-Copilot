@@ -1,4 +1,4 @@
----
+
 | **Field**     | **Value**                        |
 | ------------- | -------------------------------- |
 | **Name**      | Feature request                  |
@@ -7,7 +7,7 @@
 | **Labels**    | `enhancement`                    |
 | **Assignees** | Specify or leave empty           |
 
----
+
 
 **Please describe the feature you want**
 
