@@ -1,9 +1,10 @@
 {
-  "name": "ai-copilot",
-  "displayName": "AI-Copilot",
+  "name": "GenZ-Copilot",
+  "displayName": "GenZ-Copilot",
   "description": "AI Copilot for Code is an intelligent Visual Studio Code extension that assists developers by providing context-aware code suggestions and completions. Powered by the Groq API, this tool helps you write code faster and more efficiently while minimizing errors.",
   "version": "0.0.1",
   "publisher": "AI-Copilot",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.95.0"
   },

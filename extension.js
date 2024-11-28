@@ -4,6 +4,7 @@ const path = require("path");
 const dotenvPath = path.join(__dirname, ".env");
 require("dotenv").config({ path: dotenvPath });
 
+
 // Initialize Groq API
 const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
 
